@@ -1,16 +1,5 @@
 # progressive_mobile_test
 
-A new Flutter application.
+testing Bloc architecture in Flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot](https://sun9-86.userapi.com/impg/Gilqc-wuP0toYQgi0tHGK7-tYrDJdp7zkXp6VQ/G2GX6tKINdg.jpg?size=429x859&quality=96&sign=1eb0c51cdbd023bd139507abdf44fec2&type=album)
