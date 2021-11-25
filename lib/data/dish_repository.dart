@@ -6,8 +6,8 @@ abstract class DishRepository {
 
 class FakeDishRepository implements DishRepository {
   @override
-  List fetchDishes() {
-    List dishes = [
+  List<Dish> fetchDishes() {
+    List<Dish> dishes = [
       Dish(
         imageUrl:
             'https://www.hvadimad.dk/wp-content/uploads/2020/09/Burger-King-Crispy-Chicken.png',
